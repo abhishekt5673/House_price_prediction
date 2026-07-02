@@ -1,1 +1,37 @@
+🏠 California House Price Prediction using Machine Learning
 
+This project implements a Machine Learning Regression Model to predict house prices in California using the California Housing Dataset from Scikit-learn. The project covers the complete data science workflow, including data preprocessing, exploratory data analysis (EDA), feature correlation analysis, model training, prediction, and performance evaluation.
+
+The objective is to build an accurate regression model capable of estimating house prices based on various housing features such as median income, house age, average rooms, average bedrooms, population, average occupancy, latitude, and longitude.
+
+🚀 Features
+Data loading using Scikit-learn
+Data preprocessing and cleaning
+Exploratory Data Analysis (EDA)
+Correlation Heatmap
+Feature Distribution Analysis
+Machine Learning Regression Model
+Model Evaluation using:
+R² Score
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+Residual Analysis for model validation
+Data Visualization using Matplotlib and Seaborn
+🛠️ Technologies Used
+Python
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+📊 Workflow
+Load California Housing Dataset
+Explore and understand the dataset
+Perform data preprocessing
+Visualize feature relationships
+Split data into training and testing sets
+Train the regression model
+Predict house prices
+Evaluate model performance
+Analyze residual distribution
